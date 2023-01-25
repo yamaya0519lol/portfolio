@@ -1,5 +1,6 @@
 # portfolio
 ・山谷　大樹
+
 ・連絡先　Email yamaya.daiki.dat18@gmail.com
 
 スキル
