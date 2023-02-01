@@ -1,7 +1,7 @@
 # portfolio
-・　山谷大樹
-
-・連絡先　Email yamaya.daiki.dat18@gmail.com
+- 山谷大樹
+- 連絡先　Email yamaya.daiki.dat18@gmail.com
+- 専門学校デジタルアーツ東京 ゲームプログラムコース 2024年卒業予定
 
 スキル
 
